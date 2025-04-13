@@ -59,7 +59,7 @@ Here are a few sample views from the dashboard:
 For inquiries or further support, feel free to reach out:
 
 - **Email**: ajithvidyadharan99@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [www.linkedin.com/in/ajith-vidyadharan-430b3834b)
 
 ---
 
