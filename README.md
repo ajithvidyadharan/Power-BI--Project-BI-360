@@ -49,7 +49,7 @@ To start using the dashboard:
 
 Here are a few sample views from the dashboard:
 
-![Executive View](path/to/executive-view-image.png)
+![Executive View](https://github.com/ajithvidyadharan/Power-BI--Project-BI-360/blob/main/executive%20view.pdf)
 ![Sales View](https://github.com/ajithvidyadharan/Power-BI--Project-BI-360/blob/main/sales%20view.pdf)
 
 > **Note**: Replace the above image links with actual screenshots of your report.
@@ -58,7 +58,7 @@ Here are a few sample views from the dashboard:
 
 For inquiries or further support, feel free to reach out:
 
-- **Email**: your.email@example.com
+- **Email**: ajithvidyadharan99@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 ---
