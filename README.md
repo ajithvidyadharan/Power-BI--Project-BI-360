@@ -50,7 +50,7 @@ To start using the dashboard:
 Here are a few sample views from the dashboard:
 
 ![Executive View](path/to/executive-view-image.png)
-![Sales View](path/to/sales-view-image.png)
+![Sales View](https://github.com/ajithvidyadharan/Power-BI--Project-BI-360/blob/main/sales%20view.pdf)
 
 > **Note**: Replace the above image links with actual screenshots of your report.
 
